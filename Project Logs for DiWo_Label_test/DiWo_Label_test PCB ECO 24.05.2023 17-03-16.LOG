@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetHL1_C Pin=X3-13
+Add Component: Footprint Not Found POGO-PIN 1,02*15,85
+Add Component: Footprint Not Found POGO-PIN 1,02*15,85
+Add Pin To Net: Unknown Pin: Pin X11-1
+Add Pin To Net: Unknown Pin: Pin X12-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Add Class Member: Failed to add class member : Component X11
+Add Class Member: Failed to add class member : Component X12
+Added Room: Name=DiWo_Label_test
