@@ -1,6 +1,0 @@
-Added Component: Designator=X11(POGO-PIN 1,02*15,85)
-Added Component: Designator=X12(POGO-PIN 1,02*15,85)
-Added Pin To Net: NetName=GND Pin=X11-1
-Added Pin To Net: NetName=GND Pin=X12-1
-Added Member To Class: ClassName=DiWo_Label_test Member=Component X11
-Added Member To Class: ClassName=DiWo_Label_test Member=Component X12
