@@ -76,7 +76,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -185,67 +185,123 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PassProgrammer\r.r.0.1\BOM\Bill of Materials-PassProgrammer.xlsx
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\BOM\Bill of Materials-PassProgrammer.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PassProgrammer\r.Revision\BOM\Bill of Materials-PassProgrammer.xlsx
+DocumentPath=Project Outputs for PassProgrammer\r.r.0.1\BOM\Bill of Materials-PassProgrammer.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for DiWo_Label_test\Design Rule Check - DiWo_Label_test.html
+DocumentPath=Project Outputs for PassProgrammer\r.Revision\BOM\Bill of Materials-PassProgrammer.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.DRR
+DocumentPath=Project Outputs for DiWo_Label_test\Design Rule Check - DiWo_Label_test.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.EXTREP
+DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBL
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBO
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBS
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GM1
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTL
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTO
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTS
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.LDP
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.REP
+DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.RUL
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.REP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\NC Drill\PassProgrammer.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\NC Drill\PassProgrammer.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\Gerber\PassProgrammer.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for PassProgrammer\r.0.1\NC Drill\PassProgrammer.TXT
 DItemRevisionGUID=
 
 [Parameter1]

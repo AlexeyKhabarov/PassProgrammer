@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 10:14:53 On 26.05.2023
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [PassProgrammer.PrjPcb]
-   Generated File[Bill of Materials-PassProgrammer.xlsx]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PassProgrammer.PcbDoc]
+   Generated File[PassProgrammer.TXT]
+   Generated File[PassProgrammer.LDP]
+   Generated File[PassProgrammer.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:14:57 On 26.05.2023
+Finished Output Generation At 12:30:16 On 26.05.2023
