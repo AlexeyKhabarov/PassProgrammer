@@ -185,64 +185,72 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PassProgrammer\r.Revision\BOM\Bill of Materials-PassProgrammer.xlsx
+DocumentPath=Project Outputs for PassProgrammer\r.r.0.1\BOM\Bill of Materials-PassProgrammer.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DiWo_Label_test\Design Rule Check - DiWo_Label_test.html
+DocumentPath=Project Outputs for PassProgrammer\r.Revision\BOM\Bill of Materials-PassProgrammer.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.DRR
+DocumentPath=Project Outputs for DiWo_Label_test\Design Rule Check - DiWo_Label_test.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.EXTREP
+DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBL
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBO
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBS
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GM1
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTL
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTO
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTS
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.LDP
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.REP
+DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.RUL
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=Project Outputs for DiWo_Label_test\Gerber\DiWo_Label_test.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for DiWo_Label_test\NC Drill\DiWo_Label_test.TXT
 DItemRevisionGUID=
+
+[Parameter1]
+Name=Revision
+Value=0.1
 
 [Configuration1]
 Name=Sources
